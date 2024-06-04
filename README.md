@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # upstreamtest
-=======
 # Composer-enabled Drupal template
 
 This is Pantheon's recommended starting point for forking new [Drupal](https://www.drupal.org/) upstreams
@@ -23,4 +21,3 @@ directly accept pull requests.
 
 Instead, to propose a change, please fork [pantheon-systems/drupal-composer-managed](https://github.com/pantheon-systems/drupal-composer-managed)
 and submit a PR to that repository.
->>>>>>> pantheon-drupal/main
